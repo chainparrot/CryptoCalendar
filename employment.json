@@ -1,0 +1,26 @@
+[
+  {
+    "rdate": 1665131400,
+    "position": "US Employment Numbers - Sep 22",
+    "rank": 1,
+    "Category": "Economic",
+    "Scope": "All",
+    "impact": "High"
+  },
+  {
+    "rdate": 1667550600,
+    "position": "US Employment Numbers - Oct 22",
+    "rank": 2,
+    "Category": "Economic",
+    "Scope": "All",
+    "impact": "High"
+  },
+  {
+    "rdate": 1669969800,
+    "position": "US Employment Numbers - Nov 22",
+    "rank": 3,
+    "Category": "Economic",
+    "Scope": "All",
+    "impact": "High"
+  }
+]
