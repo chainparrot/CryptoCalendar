@@ -6,7 +6,7 @@
     "scope": "Ethereum",
     "impact": "High",
     "rank": 1,
-    "timestamp": "2022-10-21 01:29:51"
+    "timestamp": "2022-10-22 01:30:05"
   },
   {
     "rdate": 1665131400,
@@ -15,7 +15,7 @@
     "scope": "All",
     "impact": "High",
     "rank": 2,
-    "timestamp": "2022-10-21 01:29:51"
+    "timestamp": "2022-10-22 01:30:05"
   },
   {
     "rdate": 1667550600,
@@ -24,7 +24,7 @@
     "scope": "All",
     "impact": "High",
     "rank": 3,
-    "timestamp": "2022-10-21 01:29:51"
+    "timestamp": "2022-10-22 01:30:05"
   },
   {
     "rdate": 1669969800,
@@ -33,7 +33,7 @@
     "scope": "All",
     "impact": "High",
     "rank": 4,
-    "timestamp": "2022-10-21 01:29:51"
+    "timestamp": "2022-10-22 01:30:05"
   },
   {
     "rdate": 1714780800,
@@ -42,6 +42,6 @@
     "scope": "Bitcoin",
     "impact": "High",
     "rank": 5,
-    "timestamp": "2022-10-21 01:29:51"
+    "timestamp": "2022-10-22 01:30:05"
   }
 ]
